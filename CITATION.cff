@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Computational screening of sensory–vascular candidate pathways during pulmonary metastatic colonization"
+message: "If you use this software, please cite the Zenodo release."
+type: software
+authors:
+  - family-names: Tawfik
+    given-names: Mohamed
+    affiliation: "Solltrack, LLC"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/Touf00/KT-neurovascular-screen"
+keywords:
+  - pulmonary metastasis
+  - sensory neurons
+  - vagal sensory neurons
+  - neurovascular biology
+  - tumor vasculature
+  - ligand-receptor
+  - transcriptomics
+  - single-cell RNA-seq
