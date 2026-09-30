@@ -39,7 +39,7 @@ The notebook records software versions and computes checksums for downloaded inp
 
 ## Repository contents
 
-- KT_neurovascular_screen_colab.ipynb — executable analysis workflow
+- KT_neurovascular_screen_public.ipynb — cleaned executable analysis workflow
 - README.md — project and reproducibility documentation
 
 No raw GEO datasets are redistributed here.
