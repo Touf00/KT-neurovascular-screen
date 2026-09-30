@@ -47,3 +47,8 @@ No raw GEO datasets are redistributed here.
 ## Scientific scope
 
 The analysis was developed to nominate sensory–vascular mechanisms for experimental testing. Candidate nomination should not be interpreted as evidence of coordinated regulation, signalling direction, or causality across the independent source datasets.
+
+## Archived release
+
+Version 1.0.0 is archived on Zenodo and assigned DOI [10.5281/zenodo.23071281](https://doi.org/10.5281/zenodo.23071281).
+
