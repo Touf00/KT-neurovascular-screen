@@ -1,0 +1,24 @@
+{
+  "creators": [
+    {
+      "name": "Tawfik, Mohamed",
+      "affiliation": "Solltrack, LLC"
+    }
+  ],
+  "title": "Computational screening of sensory–vascular candidate pathways during pulmonary metastatic colonization",
+  "description": "Reproducible computational screening workflow used to nominate experimentally tractable sensory–vascular candidate pathways during pulmonary metastatic colonization. The workflow integrates public transcriptomic and single-cell datasets with curated ligand–receptor interactions and is intended for candidate generation rather than causal inference.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "access_right": "open",
+  "upload_type": "software",
+  "keywords": [
+    "pulmonary metastasis",
+    "sensory neurons",
+    "vagal sensory neurons",
+    "neurovascular biology",
+    "tumor vasculature",
+    "ligand-receptor",
+    "transcriptomics",
+    "single-cell RNA-seq"
+  ]
+}
