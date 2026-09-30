@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local project data and generated outputs
+KT_Neurovascular_Screen/raw/
+KT_Neurovascular_Screen/extracted/
+KT_Neurovascular_Screen/cache/
+KT_Neurovascular_Screen/outputs/
+
+# Local environment files
+.env
+.venv/
+venv/
